@@ -1,8 +1,8 @@
-# 🤖 Gemini AI Chatbot
+#  Gemini AI Chatbot
 
 A sleek, dark-themed AI chatbot built with **Flask** + **Google Gemini** API.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 gemini-chatbot/
@@ -13,7 +13,7 @@ gemini-chatbot/
     └── index.html          # Chat UI
 ```
 
-## 🚀 Setup & Run
+##  Setup & Run
 
 ### 1. Install dependencies
 ```bash
@@ -50,9 +50,9 @@ http://localhost:5000
 ```
 
 ## ✨ Features
-- 💬 Multi-turn conversations with memory
-- 🔄 Reset / New Chat button
-- ⚡ Typing indicator
-- 🎨 Dark themed, modern UI
-- 📱 Mobile-friendly
-- 🧠 Powered by Gemini 1.5 Flash
+-  Multi-turn conversations with memory
+- Reset / New Chat button
+- Typing indicator
+- Dark themed, modern UI
+- Mobile-friendly
+- Powered by Gemini 1.5 Flash
